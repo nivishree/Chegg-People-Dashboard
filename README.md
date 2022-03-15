@@ -83,6 +83,18 @@ o	Example: http://localhost:8080/Chegg/api/search/Student/All
 If any error due to libraries or dependencies occurs then all the required jar files are in 
 NivishreeBookstoreRest -> dependencies folder. Add the necessary jar files to the class path to resolve the dependency errors
 
+List of API Path:
+http://localhost:8080/Chegg/api/student - POST
+http://localhost:8080/Chegg/api/search/Student/All - GET
+http://localhost:8080/Chegg/api/search/Professor/All - GET
+http://localhost:8080/Chegg/api/search/Student/{school-name} - GET
+http://localhost:8080/Chegg/api/search/All/{school-name} - GET
+http://localhost:8080/Chegg/api/search/Professor/{school-name} - GET
+http://localhost:8080/Chegg/api/users - GET
+http://localhost:8080/Chegg/api/professors - GET
+http://localhost:8080/Chegg/api/students - GET
+http://localhost:8080/Chegg/api/delete/{id} - DELETE
+http://localhost:8080/Chegg/api/update/{lastName} - PUT
 
 
 ![image](https://user-images.githubusercontent.com/27359588/158316198-e2c860bc-1cca-4e06-ac29-1361cafc9ee7.png)
