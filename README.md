@@ -3,10 +3,10 @@ People Dashboard along with backend API which has basic user management function
 Front-End : Angular Framework
 Back-End : Java API using Gradle
 
-Front-End: 
+Front-End: (patient-dashboard)
 Setup:
 
-•	Unzip the front-end.zip file 
+•	Unzip the patient-dashboard.zip file 
 
 •	Open PATIENT-DASHBOARD in the Visual Studio Code IDE(preferred) or any IDE of  choice.
 
@@ -65,7 +65,7 @@ Search user: It gives two select options to choose school name and targeted user
 ![image](https://user-images.githubusercontent.com/27359588/158313635-1f8e121a-447f-4ee7-9a78-9ef0b7fecad1.png)
 
 
-API: (server)
+API: (server) (NivishreeBookstoreRest)
 
 The APIs which are accessed by the above client is implemented in Java API using Gradle and all the APIs are unit tested using Junit framework
 
