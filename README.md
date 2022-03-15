@@ -85,15 +85,25 @@ NivishreeBookstoreRest -> dependencies folder. Add the necessary jar files to th
 
 List of API Path:
 http://localhost:8080/Chegg/api/student - POST
+
 http://localhost:8080/Chegg/api/search/Student/All - GET
+
 http://localhost:8080/Chegg/api/search/Professor/All - GET
+
 http://localhost:8080/Chegg/api/search/Student/{school-name} - GET
+
 http://localhost:8080/Chegg/api/search/All/{school-name} - GET
+
 http://localhost:8080/Chegg/api/search/Professor/{school-name} - GET
+
 http://localhost:8080/Chegg/api/users - GET
+
 http://localhost:8080/Chegg/api/professors - GET
+
 http://localhost:8080/Chegg/api/students - GET
+
 http://localhost:8080/Chegg/api/delete/{id} - DELETE
+
 http://localhost:8080/Chegg/api/update/{lastName} - PUT
 
 
